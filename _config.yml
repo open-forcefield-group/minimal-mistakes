@@ -4,16 +4,19 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+#
+# See https://mmistakes.github.io/minimal-mistakes/docs/configuration/ for
+# documentation of the options.
 
 minimal_mistakes_skin    : "air" #"default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "https://github.com/open-forcefield-group"
+locale                   : "en-US"
 title                    : "Open Forcefield Group"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Open Forcefield Group"
 description              : "A website for organizing and advertising progress from the Open Forcefield Group. Our goal is to make the parameterization of classical mechanics forcefields a living process in order for simulations to continuously improve."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://open-forcefield-group.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -31,21 +34,21 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : "date"
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -83,10 +86,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Bryce Manubay"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : # "I am an amazing person."
+  location         : # "Somewhere"
   email            :
   uri              :
   bitbucket        :
@@ -239,7 +242,27 @@ compress_html:
 
 
 # Defaults
+#defaults:
+  # _posts
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: # true
+#      share: true
+#      related: true
+      
+# Defaults
 defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
   # _posts
   - scope:
       path: ""
@@ -250,6 +273,6 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: true      
 
 theme: minimal-mistakes-jekyll
