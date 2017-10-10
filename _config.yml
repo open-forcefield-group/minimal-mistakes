@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "air" #"default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "https://github.com/open-forcefield-group"
 title                    : "Open Forcefield Group"
 title_separator          : "-"
 name                     : "Open Forcefield Group"
