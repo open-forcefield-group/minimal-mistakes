@@ -4,7 +4,7 @@ sidebar:
   nav: about_paper_code.md
 title: Paper writing as code development
 excerpt: Why a code development model can be used to improve paper writing as well.
-permalink: /members/paper_code
+permalink: /about/paper_code
 ---
 
 Modern code development can be highly collaborative, with authors taking advantage of feedback from peers or experts in their area as their code is reviewed.
@@ -53,3 +53,4 @@ A variety of community contributions have already come in, with some contributio
 The paper is substantially longer new, covers more of the field, and includes a variety of new developments which occurred since its original publication. 
 
 LiveCoMS will also make available some practical, detailed instructions on using GitHub in this manner, though authors using this model will need to gain some basic familiarity with using git and GitHub, or have a co-author who handles this aspect.
+ 
