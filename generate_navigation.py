@@ -11,9 +11,8 @@ from collections import OrderedDict
 # Categories
 # Dict containing category name (keys) and short name used for url
 categories = OrderedDict()
-categories['Author Instructions'] = 'authors'
-categories['Editorial Policies'] = 'policies'
-categories['About LiveCoMS'] = 'about'
+categories['Group Members'] = 'members'
+categories['About Open Forcefield'] = 'about'
 
 
 def get_category_folder(category):
