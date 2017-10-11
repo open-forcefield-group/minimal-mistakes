@@ -8,22 +8,20 @@
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/ for
 # documentation of the options.
 
-minimal_mistakes_skin    : "air" #"default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Open Forcefield Group"
+title                    : "Open Forcefield" # -- Submission, review, and editorial policies"
 title_separator          : "|"
-name                     : "Open Forcefield Group"
-description              : "A website for organizing and advertising progress from the Open Forcefield Group. Our goal is to make the parameterization of classical mechanics forcefields a living process in order for simulations to continuously improve."
-url                      : "https://openforcefield.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : # "Your Name"
+description              : "Open ForceField: test splash"
+url                      : "https://open-forcefield-group.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : # 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -48,10 +46,7 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-reCaptcha:
-  siteKey                :
-  secret                 :
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -60,7 +55,6 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-naver-site-verification  :
 
 # Social Sharing
 twitter:
@@ -86,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bryce Manubay"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an amazing person."
   location         : # "Somewhere"
@@ -107,7 +101,7 @@ author:
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
@@ -184,11 +178,11 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins (previously gems:)
-plugins:
+# Plugins
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -241,20 +235,16 @@ compress_html:
     envs: development
 
 
-# Defaults
-#defaults:
-  # _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: # true
-#      share: true
-#      related: true
-      
+# Collections
+collections:
+  author_instructions:
+    output: true
+  editorial_policies:
+    output: true
+  about_livecoms:
+    output: true
+
+
 # Defaults
 defaults:
   # _pages
@@ -273,6 +263,4 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true      
-
-theme: minimal-mistakes-jekyll
+      related: true
