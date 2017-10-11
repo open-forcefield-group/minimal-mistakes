@@ -15,8 +15,8 @@ title_separator          : "|"
 name                     : # "Your Name"
 description              : #"Open ForceField: test splash"
 url                      : "https://open-forcefield-group.github.io"
-baseurl                  : ""# the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/"# the subpath of your site, e.g. "/blog"
+repository               : "https://github.com/open-forcefield-group/open-forcefield-group.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : # 200
