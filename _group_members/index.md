@@ -5,12 +5,12 @@ permalink: /members/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  #overlay_image: /assets/images/fuzzy-molecules-cropped.jpg
+  overlay_image: /assets/images/OpenFF-PIs.jpg
 excerpt: "Open Forcefield Members"
 ---
 
 {% for collection in site.collections %}
-  {% if collection.label == "about_livecoms" %}
+  {% if collection.label == "members" %}
     {% for post in collection.docs %}
 	  {% if post.layout != "archive" %}
         {% include archive-single.html %}
