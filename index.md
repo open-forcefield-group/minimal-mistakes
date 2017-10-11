@@ -1,5 +1,5 @@
 ---
-title: "Open Forcefield"
+title: "Open Forcefield Group"
 layout: splash
 permalink: /
 header:
