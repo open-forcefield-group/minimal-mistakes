@@ -1,12 +1,15 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "About Open Forcefield"
+excerpt: "An open source, open science, and open data approach to better biomolecular forcefields"
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
-
+The Open Forcefield group is a collaboration of academic and industry researchers whose primary goal is developing an
+open source, open science and open data approach to better biomolecular forcefields.
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+## Key Websites and GitHub Repositories
+| Site Name                                   | Description                                           |
+| ------------------------------------------- | ----------------------------------------------------- |
+| [openforcefield](https://github.com/open-forcefield-group/openforcefield) | A python toolkit from the Open Forcefield group for the development and use of modern molecular mechanics forcefields based on direct chemical perception and parameterized with rigorous statistical methods.|
