@@ -8,23 +8,18 @@ header:
   #overlay_image: /assets/images/fuzzy-molecules-cropped.jpg
 excerpt: "Author instructions and journal information"
 intro: 
-  - excerpt: 'This website provides author instructions and policy and journal information for LiveCoMS, the Living Journal of Computational Molecular Science. Please visit [www.livecomsjournal.org](http://www.livecomsjournal.org) for more information.'
+  - excerpt: 'This website provides front facing member information and scientific goals for the Open Forcefield Group effort. Please visit [www.github.com/open-forcefield-group/](https://github.com/open-forcefield-group/) for more information regarding our developing code base and projects.'
 feature_row:
-  - title: Author Instructions
-    url: /authors/
-    # image_path: assets/images/authors.jpg
-    # alt: "Author Instructions"
-    excerpt: "General instructions for authors as well as details on the different article types featured in LiveCoMS"
-  - title: Editorial Policies
-    url: /policies/
-    # image_path: assets/images/policies.jpg
-    # alt: "Editorial Policies"
-    excerpt: "A draft of the policies of the editorial board"
-  - title: About LiveCoMS
+  - title: Group Members
+    url: /members/
+    # image_path: assets/images/members.jpg
+    # alt: "Group Members"
+    excerpt: "The principal investigators to the Open Forcefield effort."
+  - title: About Open Forcefield
     url: /about/
     # image_path: assets/images/about.jpg
-    # alt: "About LiveCoMS"
-    excerpt: "Learn more about the model of LiveCoMS"
+    # alt: "About Open Forcefield"
+    excerpt: "Learn more about the Open Forcefield effort."
 ---
 
 {% include feature_row id="intro" type="center" %}
