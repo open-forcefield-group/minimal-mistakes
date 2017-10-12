@@ -19,3 +19,6 @@ open source, open science and open data approach to better biomolecular forcefie
 - [MiniDrugBank](https://github.com/open-forcefield-group/MiniDrugBank): A repository to track the creation and evolution of the MiniDrugBank Molecule set, filtered from [DrugBank Release Version 5.0.1](https://www.drugbank.ca/releases/5-0-1).
 
 ---
+
+## Funding Sources
+- <Insert name here>
