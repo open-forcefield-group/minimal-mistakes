@@ -5,7 +5,7 @@ excerpt: "An open source, open science, and open data approach to better biomole
 ---
 
 ## Academic Members
-[image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Academic_People.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Academic_People.jpg){: .align-center}
 
 ## Industry Members
-[image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Industry_People.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Industry_People.jpg){: .align-center}
