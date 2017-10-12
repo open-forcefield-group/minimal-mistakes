@@ -7,22 +7,26 @@ header:
   overlay_filter: "0.5"
   #overlay_image: /assets/images/OpenFF-PIs.PNG
 excerpt: "An open source, open science, and open data approach to better biomolecular forcefields"
-intro: 
-  - excerpt: 'This website provides front facing member information and scientific goals for the Open Forcefield Group effort. Please visit [www.github.com/open-forcefield-group/](https://github.com/open-forcefield-group/) for more information regarding our developing code base and projects.'
+intro:
+  - excerpt: 'A new approach to modern collaborative biomolecular forcefield development based on open source software, open science, and high-quality curated open datasets.'
 feature_row:
   - title: Consortium Members
     url: /members/
     # image_path: assets/images/OpenFF-PIs.PNG
     # alt: "Consortium Members"
-    excerpt: "The principal investigators to the Open Forcefield effort."
-  - title: About Open Forcefield
-    url: /about/
+    excerpt: "Open Forcefield Group investigators and consortium members"
+  - title: Resources
+    url: /resources/
     # image_path: assets/images/about.jpg
     # alt: "About Open Forcefield"
-    excerpt: "Learn more about the Open Forcefield effort."
+    excerpt: "Find our code, data, and forcefields on [GitHub](https://github.com/open-forcefield-group)."
+  - title: SMIRNOFF
+    url: /smirnoff/
+    # image_path: assets/images/about.jpg
+    # alt: "About Open Forcefield"
+    excerpt: "Learn about the SMIRNOFF forcefield specification."
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
