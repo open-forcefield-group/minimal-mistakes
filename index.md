@@ -13,7 +13,7 @@ feature_row:
   - title: Group Members
     url: /members/
     # image_path: assets/images/OpenFF-PIs.PNG
-    # alt: "Group Members"
+    # alt: "Consortium Members"
     excerpt: "The principal investigators to the Open Forcefield effort."
   - title: About Open Forcefield
     url: /about/
