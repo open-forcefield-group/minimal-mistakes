@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /funding/
 title: "Funding Sources"
 excerpt: "An open source, open science, and open data approach to better biomolecular forcefields"
