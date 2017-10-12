@@ -10,6 +10,8 @@ excerpt: "An open source, open science, and open data approach to better biomole
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Academic_People.jpg" alt="">
 </figure> 
 
+--- 
+
 ## Industry Members
 
 <figure style="width: 800px" class="align-left">
