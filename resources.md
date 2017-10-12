@@ -10,9 +10,9 @@ The Open Forcefield Group makes a number of resources available to the community
 
 ## Software
 
-- [openforcefield](https://github.com/open-forcefield-group/openforcefield): A python toolkit from the Open Forcefield group for the development and use of modern molecular mechanics forcefields based on direct chemical perception and parameterized with rigorous statistical methods.
+- [openforcefield](https://github.com/open-forcefield-group/openforcefield): A python toolkit from the Open Forcefield group for the development and use of modern molecular mechanics forcefields based on direct chemical perception and parameterized with rigorous statistical methods. This also provides the SMIRNOFF forcefield format. 
 - [open-forcefield-tools](https://github.com/open-forcefield-group/open-forcefield-tools): Development space for property calculation and forcefield parameterization tools.
-- [SMARTY](https://github.com/open-forcefield-group/smarty): A simple implementation of how Bayesian atom type sampling using reversible-jump Markov chain Monte Carlo (RJMCMC) over SMARTS types might work.
+- [SMARTY](https://github.com/open-forcefield-group/smarty): A simple prototype implementation Bayesian atom type sampling using reversible-jump Markov chain Monte Carlo (RJMCMC) over SMARTS types. This also provides the SMIRKY tool, which samples over SMIRKS patterns for chemical perception of parameter types.
 
 ## Datasets
 
@@ -21,4 +21,4 @@ The Open Forcefield Group makes a number of resources available to the community
 
 ## Forcefields
 
-- [smirnoff99Frosst](https://github.com/open-forcefield-group/smirnoff99Frosst): The first general-purpose implementation of a SMIRKS Native Open Force Field (SMIRNOFF) as implemented by SMARTY and its ForceField class (in smarty.forcefield) for parameterizing small molecules for OpenMM.
+- [smirnoff99Frosst](https://github.com/open-forcefield-group/smirnoff99Frosst): The first general-purpose implementation of a SMIRKS Native Open Force Field (SMIRNOFF) as implemented by the SMIRNOFF ForceField class (in openforcefield.typing.engines.forcefield) for parameterizing small molecules for OpenMM and (via ParmEd and InterMol) a wide variety of other simulation packages.
