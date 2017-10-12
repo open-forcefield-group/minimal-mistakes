@@ -10,7 +10,7 @@ excerpt: "An open source, open science, and open data approach to better biomole
 intro: 
   - excerpt: 'This website provides front facing member information and scientific goals for the Open Forcefield Group effort. Please visit [www.github.com/open-forcefield-group/](https://github.com/open-forcefield-group/) for more information regarding our developing code base and projects.'
 feature_row:
-  - title: Group Members
+  - title: Consortium Members
     url: /members/
     # image_path: assets/images/OpenFF-PIs.PNG
     # alt: "Consortium Members"
