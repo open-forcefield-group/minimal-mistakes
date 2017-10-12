@@ -1,13 +1,6 @@
 # main links
-#main:
-#  - title: "Quick-Start Guide"
-#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
- main:
-  - title: Group Members
+main:
+  - title: Consortium Members
     url: /members/
-  - title: About Open Forcefield
-    url: /about/
-
-paper_code.md:
-  - title: Paper writing as code development
-    url: /about/paper_codeindex.html#
+  - title: Resources
+    url: /resources/
