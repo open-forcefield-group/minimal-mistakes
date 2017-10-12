@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /members/
 title: "Consortium Members"
 excerpt: "An open source, open science, and open data approach to better biomolecular forcefields"
