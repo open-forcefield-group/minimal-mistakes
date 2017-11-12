@@ -14,9 +14,9 @@ title                    : "Open Forcefield Group" # -- Submission, review, and 
 title_separator          : "|"
 name                     : # "Your Name"
 description              : #"Open ForceField: test splash"
-url                      : "https://open-forcefield-group.github.io"
+url                      : "https://openforcefield.github.io"
 baseurl                  : "/"# the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/open-forcefield-group/open-forcefield-group.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/openforcefield/openforcefield.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : # 200
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "John D. Chodera"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an amazing person."
   location         : # "Somewhere"
-  email            :
+  email            : john.chodera@choderalab.org
   uri              :
   bitbucket        :
   codepen          :

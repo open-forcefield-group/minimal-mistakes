@@ -19,7 +19,7 @@ feature_row:
     url: /resources/
     # image_path: assets/images/about.jpg
     # alt: "About Open Forcefield"
-    excerpt: "Find our code, data, and forcefields on [GitHub](https://github.com/open-forcefield-group)."
+    excerpt: "Find our code, data, and forcefields on [GitHub](https://github.com/openforcefield)."
   - title: SMIRNOFF
     url: /smirnoff/
     # image_path: assets/images/about.jpg
