@@ -15,8 +15,16 @@ The Open Force Field Group consists of academic and industrial investigators and
 
 ---
 
-## Data Consultants
+## Industry Members
 
 <figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Industry_People.jpg" alt="">
+</figure>
+
+---
+
+## Government Scientists
+
+<figure style="width: 600px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Government_People.jpg" alt="">
 </figure>
