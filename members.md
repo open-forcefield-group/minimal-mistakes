@@ -9,14 +9,14 @@ The Open Forcefield Group consists of academic and industrial investigators and 
 
 ## Academic Members
 
-<figure style="width: 800px" class="align-center">
+<figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Academic_People.jpg" alt="">
 </figure>
 
 ---
 
-## Industry Members
+## Data Consultants
 
-<figure style="width: 800px" class="align-center">
+<figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Industry_People.jpg" alt="">
 </figure>
