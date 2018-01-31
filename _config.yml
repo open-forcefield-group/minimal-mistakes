@@ -10,10 +10,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Open Forcefield Group" # -- Submission, review, and editorial policies"
+title                    : "Open Force Field Group" # -- Submission, review, and editorial policies"
 title_separator          : "|"
 name                     : # "Your Name"
-description              : #"Open ForceField: test splash"
+description              : #"Open Force Field: test splash"
 url                      : "https://openforcefield.github.io"
 baseurl                  : "/"# the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/openforcefield/openforcefield.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
