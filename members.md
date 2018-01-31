@@ -5,7 +5,7 @@ title: "Consortium Members"
 excerpt: "An open source, open science, and open data approach to better biomolecular forcefields"
 ---
 
-The Open Forcefield Group consists of academic and industrial investigators and partners seeking to advance biomolecular forcefield engineering and science via open source software, open science, and open data.
+The Open Force Field Group consists of academic and industrial investigators and partners seeking to advance biomolecular force field engineering and science via open source software, open science, and open data.
 
 ## Academic Members
 
