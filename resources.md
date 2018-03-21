@@ -9,6 +9,9 @@ The Open Force Field Group makes a number of resources available to the communit
 
 ---
 
+## Publications
+- [SMIRNOFF white paper](https://doi.org/10.1101/286542): This preprint/white paper introduces the SMIRNOFF format in the context of traditional force fields, explains the development and validation of our new small molecule force field smirnoff99Frosst, and highlights some directions the initiative is headed.
+
 ## Software
 
 - [openforcefield](https://github.com/openforcefield/openforcefield): A python toolkit from the Open Force Field group for the development and use of modern molecular mechanics force fields based on direct chemical perception and parameterized with rigorous statistical methods. This also provides the SMIRNOFF force field format.
