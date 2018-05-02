@@ -5,7 +5,7 @@ title: "Funding Sources"
 excerpt: "An open source, open science, and open data approach to better biomolecular force fields"
 ---
 
-The Open Force Field Group is seeking to develop a public-private partnership to cultivate stable funding from federal sources and industry partners to support iterative and sustainable biomolecular force field development.
+The Open Force Field Consortium is a public-private partnership to cultivate stable funding from federal sources and industry partners to support iterative and sustainable biomolecular force field development.
 
 ---
 
