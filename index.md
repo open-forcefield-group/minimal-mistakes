@@ -1,5 +1,5 @@
 ---
-title: "Open Force Field Group"
+title: "Open Force Field Initiative"
 layout: splash
 permalink: /
 header:
@@ -14,7 +14,7 @@ feature_row:
     url: /members/
     # image_path: assets/images/OpenFF-PIs.PNG
     # alt: "Consortium Members"
-    excerpt: "Open Force Field Group investigators and consortium members"
+    excerpt: "Open Force Field Initiative investigators and Open Force Field Consortium members"
   - title: Resources
     url: /resources/
     # image_path: assets/images/about.jpg

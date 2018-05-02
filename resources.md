@@ -5,7 +5,7 @@ title: "Resources"
 excerpt: "An open source, open science, and open data approach to better biomolecular force fields"
 ---
 
-The Open Force Field Group makes a number of resources available to the community, including open source software, high-quality curated open datasets, and force fields.
+The Open Force Field Initiative makes a number of resources available to the community, including open source software, high-quality curated open datasets, and force fields.
 
 ---
 
@@ -14,7 +14,7 @@ The Open Force Field Group makes a number of resources available to the communit
 
 ## Software
 
-- [openforcefield](https://github.com/openforcefield/openforcefield): A python toolkit from the Open Force Field group for the development and use of modern molecular mechanics force fields based on direct chemical perception and parameterized with rigorous statistical methods. This also provides the SMIRNOFF force field format.
+- [openforcefield](https://github.com/openforcefield/openforcefield): A Python toolkit from the Open Force Field Initiative for the development and use of modern molecular mechanics force fields based on direct chemical perception and parameterized with rigorous statistical methods. This also provides the SMIRNOFF force field format.
 - [open-forcefield-tools](https://github.com/openforcefield/open-forcefield-tools): Development space for property calculation and force field parameterization tools.
 - [SMARTY](https://github.com/openforcefield/smarty): A simple prototype implementation Bayesian atom type sampling using reversible-jump Markov chain Monte Carlo (RJMCMC) over SMARTS types. This also provides the SMIRKY tool, which samples over SMIRKS patterns for chemical perception of parameter types.
 
