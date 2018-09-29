@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/news/introducing-the-initiative/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/datasets/</loc>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/members/</loc>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/news/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/tags/news/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/categories/news/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/consortium/</loc>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/tags/open-force-field-initiative/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/forcefields/</loc>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/science/</loc>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/tags/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//openforcefield.org/website-preview/tags/website/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
